@@ -2,3 +2,5 @@
 
 ## Einleitung
 Dies ist der Start unseres Projektberichts.
+## Abschnitt Firstcollaba von Developer A
+Hier sind meine wichtigen Erkenntnisse für Abschnitt A.
